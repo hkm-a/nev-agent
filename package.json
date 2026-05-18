@@ -1,7 +1,7 @@
 {
-  "name": "ts-node-esm-template",
+  "name": "nev-agent",
   "version": "1.0.0",
-  "description": "",
+  "description": "NEV智能导购Agent - AI-powered New Energy Vehicle shopping assistant with LLM + MCP + RAG architecture",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts"
   },
-  "keywords": [],
+  "keywords": ["nev", "electric-vehicle", "ai-agent", "mcp", "rag", "llm", "shopping-assistant"],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.6.3",
